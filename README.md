@@ -8,6 +8,12 @@ You need to create a database.sqlite into `database` folder, config the .env for
 
 `npm install`
 
+`php artisan migrate`
+
+`php artisan db:seed`
+
+`php artisan passport:install`
+
 `npm run dev`
 
 `php artisan serve`
